@@ -8,6 +8,7 @@
     <meta name="author" content="">
     <link rel="icon" href="../../assets/ico/favicon.ico">
 
+<<<<<<< HEAD
     <title>Alumni Portal</title>
 
     <!-- Bootstrap core CSS -->
@@ -15,6 +16,15 @@
 
     <!-- Custom styles for this template -->
     <link href="../css/signin.css" rel="stylesheet">
+=======
+    <title>Signin Template for Bootstrap</title>
+
+    <!-- Bootstrap core CSS -->
+    <link href="../../dist/css/bootstrap.min.css" rel="stylesheet">
+
+    <!-- Custom styles for this template -->
+    <link href="signin.css" rel="stylesheet">
+>>>>>>> FETCH_HEAD
 
     <!-- Just for debugging purposes. Don't actually copy this line! -->
     <!--[if lt IE 9]><script src="../../assets/js/ie8-responsive-file-warning.js"></script><![endif]-->
@@ -47,4 +57,8 @@
     ================================================== -->
     <!-- Placed at the end of the document so the pages load faster -->
   </body>
+<<<<<<< HEAD
 </html>
+=======
+</html>
+>>>>>>> FETCH_HEAD
