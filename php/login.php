@@ -8,10 +8,10 @@
 	$user_name = $_POST[''];
 	$pass = $_POST[''];
 	
-	$query = mysqli_query($db, "SELECT * FROM users");
+	$query = mysqli_query($db, "SELECT * FROM `Alumni_LXA` WHERE `username`");
 	
-	if($query){
-		
+	if(!$query){
+			
 	}else{
 		
 	}
