@@ -4,9 +4,9 @@
     <meta charset="utf-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1">
-    <meta name="description" content="">
-    <meta name="author" content="">
-    <link rel="icon" href="../../assets/ico/favicon.ico">
+    <meta name="description" content="Alumni Portal Login Page">
+    <meta name="author" content="Joseph Murphy">
+    <link rel="icon" href="../assets/ico/favicon.ico">
 
 
     <title>Alumni Portal</title>
@@ -17,7 +17,7 @@
     <!-- Custom styles for this template -->
     <link href="../css/signin.css" rel="stylesheet">
 
-    <title>Signin Template for Bootstrap</title>
+    <title>Alumni Portal </title>
 
     
 
@@ -38,7 +38,7 @@
 
       <form class="form-signin" role="form" method="login.php" method="POST">
         <h2 class="form-signin-heading">Please sign in</h2>
-        <input type="email" class="form-control" placeholder="Email address" required autofocus>
+        <input type="text" class="form-control" placeholder="Username" required autofocus>
         <input type="password" class="form-control" placeholder="Password" required>
         <label class="checkbox">
           <input type="checkbox" value="remember-me"> Remember me
